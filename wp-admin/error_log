@@ -1,0 +1,53 @@
+[23-Dec-2020 12:48:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gyaansha/enter-your-name.xyz/gateway/wp-admin/includes/template.php:2526) in /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/pluggable.php on line 1296
+[23-Dec-2020 12:48:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gyaansha/enter-your-name.xyz/gateway/wp-admin/includes/template.php:2526) in /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/pluggable.php on line 1299
+[07-Jan-2021 07:08:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '[' in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1227
+[07-Jan-2021 07:08:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '[' in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1227
+[07-Jan-2021 07:08:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '[' in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1227
+[07-Jan-2021 07:09:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '[' in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1248
+[07-Jan-2021 07:09:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '[' in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1248
+[07-Jan-2021 07:10:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1338
+[07-Jan-2021 07:10:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1338
+[07-Jan-2021 09:32:48 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1281
+[07-Jan-2021 09:33:26 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1281
+[07-Jan-2021 09:34:09 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1281
+[07-Jan-2021 09:34:50 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1281
+[07-Jan-2021 09:35:25 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1281
+[07-Jan-2021 09:36:11 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1281
+[07-Jan-2021 09:36:50 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1281
+[07-Jan-2021 09:37:26 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1281
+[07-Jan-2021 09:38:03 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:38:06 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:38:11 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:38:14 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:38:19 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:38:20 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:38:51 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:39:31 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:40:12 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:40:51 UTC] PHP Fatal error:  Cannot declare class post_carousel_widget, because the name is already in use in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1279
+[07-Jan-2021 09:41:31 UTC] PHP Fatal error:  Uncaught Error: Class 'blog_archieve_widget' not found in /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-widget-factory.php:61
+Stack trace:
+#0 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/widgets.php(115): WP_Widget_Factory->register('blog_archieve_w...')
+#1 /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php(1183): register_widget('blog_archieve_w...')
+#2 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-hook.php(287): blog_archieve_post('')
+#3 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/widgets.php(1795): do_action('widgets_init')
+#6 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-hook.php(287): wp_widgets_init('')
+#7 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-hook.php(311): in /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-widget-factory.php on line 61
+[07-Jan-2021 09:42:12 UTC] PHP Fatal error:  Uncaught Error: Class 'blog_archieve_widget' not found in /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-widget-factory.php:61
+Stack trace:
+#0 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/widgets.php(115): WP_Widget_Factory->register('blog_archieve_w...')
+#1 /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php(1183): register_widget('blog_archieve_w...')
+#2 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-hook.php(287): blog_archieve_post('')
+#3 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/widgets.php(1795): do_action('widgets_init')
+#6 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-hook.php(287): wp_widgets_init('')
+#7 /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-hook.php(311): in /home/gyaansha/enter-your-name.xyz/gateway/wp-includes/class-wp-widget-factory.php on line 61
+[07-Jan-2021 09:42:50 UTC] PHP Notice:  Undefined index: title in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1213
+[07-Jan-2021 10:04:09 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 98566408 bytes) in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1227
+[07-Jan-2021 10:04:14 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 98566384 bytes) in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1227
+[07-Jan-2021 10:04:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 98566384 bytes) in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1227
+[07-Jan-2021 10:04:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 98566408 bytes) in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1227
+[07-Jan-2021 10:05:40 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 98566408 bytes) in /home/gyaansha/enter-your-name.xyz/gateway/wp-content/themes/oceanwp/functions.php on line 1227
